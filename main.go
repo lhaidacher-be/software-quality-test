@@ -35,7 +35,7 @@ func processArray(arr [5]int) int {
 
 	// Create a loop that calculates the sum of the array
 	for _, val := range arr {
-		sum += val
+		sum = +val //FIXME
 	}
 
 	// Return the sum
