@@ -11,3 +11,8 @@ func main() {
 
 	// TODO add some pretty cool functionality
 }
+
+// TODO use this function anytime ;)
+func add(x, y int) int {
+	return x + y // Noncompliant
+}
