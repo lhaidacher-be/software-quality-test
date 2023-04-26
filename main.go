@@ -12,7 +12,9 @@ func main() {
 	// TODO add some pretty cool functionality
 }
 
+/*
 // TODO use this function anytime ;)
 func nonCompliantFunction(x, y int) bool {
 	return (true && false) && (true && false)
 }
+*/
