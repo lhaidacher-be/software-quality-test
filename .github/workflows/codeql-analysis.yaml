@@ -2,7 +2,8 @@ name: Static Code Analysis with CodeQL
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - master
 
 jobs:
   CodeQL-Build:
