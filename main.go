@@ -13,6 +13,6 @@ func main() {
 }
 
 // TODO use this function anytime ;)
-func nonCompliantFunction(x, y int) bool {
-	return (true && false) && (true && false)
-}
+//func nonCompliantFunction(x, y int) bool {
+//	return (true && false) && (true && false)
+//}
